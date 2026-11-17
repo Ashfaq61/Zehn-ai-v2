@@ -1,0 +1,6 @@
+{
+  "name": "AuraSync AI",
+  "description": "AI-powered life companion, productivity studio, and cloud-synced task & habit tracker with Firebase AI Logic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
